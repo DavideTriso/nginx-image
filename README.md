@@ -1,6 +1,6 @@
-# Docker Nginx
+# Nginx Images
 
-Image to run the Nginx webserver in docker with **auto-reloading on config and SSL certificates change**.
+Image to run the Nginx webserver in a container with **auto-reloading on config and SSL certificates change**.
 
 ## Quick reference
 
